@@ -1,0 +1,15 @@
+{
+  "name": "whatsapp",
+  "version": "1.0.0",
+  "description": "Native whatsapp app",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Kunal Dwivedi",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "^10.1.2"
+  }
+}
